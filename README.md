@@ -1,8 +1,21 @@
-# Data Mining - Champi
+
+# Champi
 
 Champi is training assistant chatbot that creates personalized training plans for beginners. It also suggest exercises and challenges according to user's age, weight, goals, etc.
 
 This chatbot was develop as a data mining project with the aim of learning how to create and evaluate a Large Language Model.
+
+**Course**: Data Mining (2023/2024)
+
+# Tech Stack
+
+**LLM Orchestration**: LangChain
+
+**Vector Database**: Pinecone
+
+**LLM**: Ollama (Llama 3).
+
+**Programming Language**: Python
 
 ## Data Sources
 
@@ -76,5 +89,3 @@ https://www.muscleandstrength.com/workout-routines
   - Marta Aguiar - pg52694
 
   - Rita Dantas - pg51605
-
-    
